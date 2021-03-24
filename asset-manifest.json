@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/vishu/static/css/main.c04a94b4.chunk.css",
+    "main.js": "/vishu/static/js/main.a2f17ed6.chunk.js",
+    "main.js.map": "/vishu/static/js/main.a2f17ed6.chunk.js.map",
+    "runtime-main.js": "/vishu/static/js/runtime-main.b4b1b144.js",
+    "runtime-main.js.map": "/vishu/static/js/runtime-main.b4b1b144.js.map",
+    "static/js/2.78995889.chunk.js": "/vishu/static/js/2.78995889.chunk.js",
+    "static/js/2.78995889.chunk.js.map": "/vishu/static/js/2.78995889.chunk.js.map",
+    "index.html": "/vishu/index.html",
+    "static/css/main.c04a94b4.chunk.css.map": "/vishu/static/css/main.c04a94b4.chunk.css.map",
+    "static/js/2.78995889.chunk.js.LICENSE.txt": "/vishu/static/js/2.78995889.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b4b1b144.js",
+    "static/js/2.78995889.chunk.js",
+    "static/css/main.c04a94b4.chunk.css",
+    "static/js/main.a2f17ed6.chunk.js"
+  ]
+}
